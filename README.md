@@ -1,17 +1,24 @@
-$ pkg update && pkg upgrade -y
+# About
+This Scripts for make machine passwords hardly
+easy for update your secure password account
+no backdor, this scripts have an ethical hacking
 
-$ apt-get update
+# Installation
 
-$ apt update && apt upgrade -y
+pkg update && pkg upgrade -y
 
-$ pkg install python && pkg install python2 && pkg install python3 -y
+apt-get update
 
-$ pkg install git
+apt update && apt upgrade -y
 
-$ pkg install bash
+pkg install python && pkg install python2 && pkg install python3 -y
 
-$ git clone https://github.com/teamcyber-glitch/machine_password
+pkg install git
 
-$ cd machine_password
+pkg install bash
 
-$ python passkey.py
+git clone https://github.com/teamcyber-glitch/machine_password
+
+cd machine_password
+
+python passkey_15.py        
