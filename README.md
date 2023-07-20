@@ -3,6 +3,9 @@ This Scripts for make machine passwords hardly
 easy for update your secure password account
 no backdor, this scripts have an ethical hacking
 
+# Screenshot
+https://ibb.co/x851ySf
+
 # Installation
 
 pkg update && pkg upgrade -y
