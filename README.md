@@ -24,4 +24,10 @@ git clone https://github.com/teamcyber-glitch/machine_password
 
 cd machine_password
 
-python passkey_15.py        
+# Option
+choose 15 long password 15
+choose 30 long password 30
+>_  python passkey_15.py
+            OR
+>_  python passkey_30.py
+
