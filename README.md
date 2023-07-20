@@ -27,7 +27,8 @@ cd machine_password
 # Option
 choose 15 long password 15
 choose 30 long password 30
-$  python passkey_15.py
+<br>
+>  python passkey_15.py
        <br>OR<br>
-$  python passkey_30.py
+>  python passkey_30.py
 
